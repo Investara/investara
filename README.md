@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @graphixara-01
+- 👋 Hi, I’m Investara
 - 👀 I’m interested in Python coding
-- 🌱 I’m currently Working on Maya and Houdini Python Coding
-- 💞️ I’m looking to collaborate on any Animation and Vfx projects
+- 🌱 I’m currently Working on Algo trades
+- 💞️ I’m looking to collaborate on any Algo Trading
 - 📫 How to reach me . Just Mail at graphixara@gmail.com
 
 <!---
